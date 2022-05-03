@@ -12,4 +12,6 @@ I also post some resources for school-related stuff
 
 - I am going to learn python and C/C++ I hope
 
-# ok bye
+# NOTE: PLEASE DON'T COPY MY BATCH PROJECTS
+
+## OK BYE
