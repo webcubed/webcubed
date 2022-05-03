@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a lua and batch programmer
+I am a lua and batch programmer (lua for roblox)
 I also post some resources for school-related stuff
 
 ## My Projects
@@ -8,4 +8,8 @@ I also post some resources for school-related stuff
 - uCipher, Ciphering tool in batch (Current version 1.3b)
 - TicBatchToe, TicTacToe in batch (In Progress)
 
-## BYE
+## To Do
+
+- I am going to learn python and C/C++ I hope
+
+# ok bye
