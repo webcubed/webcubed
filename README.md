@@ -11,6 +11,7 @@ I also post some resources for school-related stuff
 ## To Do
 
 - I am going to learn python and C/C++ I hope
+- Learning java
 
 # NOTE: PLEASE DON'T COPY MY BATCH PROJECTS
 
