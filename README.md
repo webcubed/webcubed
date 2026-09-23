@@ -7,3 +7,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=webcubed&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=webcubed&show_icons=true&include_all_commits=true&theme=dark_github)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=webcubed&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=webcubed&langs_count=4&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=webcubed&langs_count=6&theme=dark_github)](https://wakatime.com/@webcubed)
